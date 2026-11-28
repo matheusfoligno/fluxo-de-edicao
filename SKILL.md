@@ -54,6 +54,18 @@ Leia `guias/decisoes.md` e siga a ordem de lá. A primeira decisão é sempre **
 ## Fase 3. Referências e perfil
 Leia `guias/referencias.md`. Guie a pessoa a juntar trechos de vídeos de que ela gosta, analise e escreva o **perfil** dela (identidade visual, estilo de motion, de câmera, de corte e de som). Sem referências, o resultado tende ao genérico: insista com gentileza, mas não trave a montagem (dá para começar com um perfil simples e completar depois).
 
+### Padrão de edição para Reels
+
+Use este padrão em qualquer projeto de Reels que adote a skill. Ao criar ou atualizar o perfil de edição, registre estas escolhas e aplique os ajustes pedidos no briefing.
+
+- **Cortes e duração.** Trabalhe em 9:16 e entregue um MP4 versionado. A duração resulta da edição. Priorize cortes naturais, continuidade das ideias e ritmo. Preserve frases e pausas que ajudam a entender a fala.
+- **Câmera.** Alterne planos abertos e fechados. Use zooms curtos em palavras ou gestos de ênfase e aproximações ou recuos suaves na volta das animações.
+- **Animações.** Comece pelo assunto e intercale a câmera com trechos explicativos em tela cheia, com a voz do apresentador por cima. Escolha diagramas, comparações ou gráficos de acordo com a fala e dê tempo para a leitura.
+- **Identidade visual.** Use Noto Sans, fundo escuro, linhas finas e brilho discreto nos destaques. Use verde escuro `#132620` nas caixas, texto claro `#F6F9FA` e detalhes em verde `#92F3BC`, ciano `#87EADE` ou coral `#FFAD88`.
+- **Caixas e legendas.** Nos trechos com apresentador, mantenha a legenda centralizada e a caixa larga abaixo dela, com folga para duas linhas e margem até a borda inferior. Em 720 × 1280, use como referência uma caixa de 610 × 116 px, margem inferior de 105 px e margem vertical de 266 px para a legenda ASS. Escale as medidas proporcionalmente. Use legendas brancas com contorno escuro, em blocos curtos de até duas linhas.
+- **Som.** Mantenha a voz em primeiro plano, com trilha instrumental discreta. Varie cliques, impactos e varreduras conforme o movimento e sincronize os efeitos com as transições e ênfases visíveis. Use cerca de −16 LUFS integrados e −1,5 dBTP como referência para a mixagem.
+- **Revisão.** Confira a sequência exportada para verificar se os cortes soam naturais, as ideias se conectam, os textos têm espaço e os efeitos acompanham a imagem.
+
 ## Fase 4. Plano do fluxo
 Proponha as etapas, partindo das 8 de referência e adaptando às respostas:
 

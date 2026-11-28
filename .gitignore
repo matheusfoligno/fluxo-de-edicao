@@ -1,0 +1,10 @@
+ferramentas/.venv/
+ferramentas/downloads/
+ferramentas/vozes/
+ferramentas/testes/
+__pycache__/
+
+# Projetos e anotações locais de edição
+/_CLAUDE/
+/ferramentas/montagem.md
+/ferramentas/perfis/
